@@ -1,0 +1,8 @@
+---
+layout: post
+title: second post
+---
+
+Here is some text. blahblah
+
+![_config.yml]({{ site.baseurl }}/images/config.png)

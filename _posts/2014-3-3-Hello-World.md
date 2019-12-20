@@ -1,8 +1,8 @@
 ---
 layout: post
-title: First blogpost
+title: this is my pipi
 ---
 
-Here is some text. blahblah
+https://i1.sndcdn.com/artworks-000228229521-0zwb20-t500x500.jpg
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
